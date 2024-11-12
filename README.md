@@ -8,5 +8,5 @@ Gemma ChatBot is an AI-driven chatbot built to assist users with quick and effec
 
 To run this project, you will need:
 
-1. A [GROQ API Key](https://console.groq.com/keys)
-2. A [Google API Key](https://aistudio.google.com/u/2/apikey)
+1. [GROQ API Key](https://console.groq.com/keys)
+2. [Google API Key](https://aistudio.google.com/u/2/apikey)
