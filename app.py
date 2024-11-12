@@ -34,7 +34,7 @@ prompt = ChatPromptTemplate.from_template(
 
 # Embedding function for processing multiple PDFs in a directory
 def vector_embedding():
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")  # Confirm this embeddings model supports Thai
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
     loader = PyPDFDirectoryLoader("./pdf")  # Load all PDFs in the "./pdf" directory
     docs = loader.load()
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
