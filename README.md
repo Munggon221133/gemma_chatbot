@@ -2,6 +2,12 @@
 
 Gemma ChatBot is an AI-driven chatbot built to assist users with quick and effective answers. This project uses GROQ and Google APIs to handle requests and process natural language.
 
+# Google Gemma 2
+
+Gemma 2 is Google's latest open-source AI model.
+
+Gemma 2 is a generative AI model that can analyze, understand, and generate outputs from different types of data. It's the second iteration of Google's Gemma AI model, and is based on the same research and technology as the Gemini models.
+
 ## Getting Started
 
 ### Prerequisites
