@@ -10,3 +10,5 @@ To run this project, you will need:
 
 1. [GROQ API Key](https://console.groq.com/keys)
 2. [Google API Key](https://aistudio.google.com/u/2/apikey)
+
+![image](https://github.com/user-attachments/assets/f5fb5ccf-7719-43ab-b8d6-68fc457f132a)
