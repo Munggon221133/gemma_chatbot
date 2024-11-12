@@ -18,8 +18,7 @@ os.environ['GOOGLE_API_KEY'] = os.getenv("GOOGLE_API_KEY")
 
 print("Gemma Model ChatBot")
 
-# Initialize the language model with Thai support
-llm = ChatGroq(groq_api_key=groq_api_key, model="gemma-7b-it")  # Ensure this model supports Thai
+llm = ChatGroq(groq_api_key=groq_api_key, model="gemma-7b-it")
 
 # Define the prompt template
 prompt = ChatPromptTemplate.from_template(
